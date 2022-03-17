@@ -1,4 +1,8 @@
+package ru.netology.bonus;
+
 import org.junit.jupiter.api.Test;
+import ru.netology.bonus.BonusService;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class BonusServiceTest {
